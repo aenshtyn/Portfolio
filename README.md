@@ -1,20 +1,32 @@
 # Mohameds Portfolio
-#### Website Containing my previous work, {D7 Feb 2020}
+
+#### Website Containing my previous work, {07 Feb 2020}
+
 #### By **Mohamed Mohamed**
+
 ## Description
+
 This is my portfolio page as a student of Moringa school in Kenya. I will keep it updated with my work. The website is to help potential clients{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+
 ## Setup/Installation Requirements
+
 This is a website and has no setup Requirements once uploaded to the
+
 ## Known Bugs
+
 There are no know bugs at the moment
+
 ## Technologies Used
+
 Styled the website using some CSS
 Remainder was done on HTML
+
 ## Support and contact details
 
 If you have any issues or questions you can contac me at demahom93@gmail.com
 
 ### License
+
 MIT License
 
 Copyright (c) [2020] [Mohamed Abdullahi Mohamed]

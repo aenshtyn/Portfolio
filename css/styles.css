@@ -1,6 +1,47 @@
-.important {
-  color: red;
+
 }
-.unimportant {
-  color:blue;
+.column {
+  width: 350px;
+  float: left;
+}
+
+.test-box {
+  padding: 6px;
+  margin: 20px;
+  background-color: #F1F14E;
+
+
+}
+
+body {
+  background-image: url('background.jpg')
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+
+
+}
+h1 {
+  color: white;
+  text-align: center;
+
+}
+h2 {
+  color: black;
+  text-align: center;
+
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+
+}
+img {
+  align-self: center;
+}
+background-image {
+  background-image: url('images/background.png');
+  opacity: 0.5;
+
 }

@@ -1,3 +1,10 @@
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+
 .paragraph1 {
   text-align: justify;
   color: #F1C313
@@ -13,9 +20,12 @@
 }
 
 .test-box {
+  border: 2px solid red;
   padding: 6px;
   margin: 20px;
+  background-color: yellow;
 }
+
 
 .contacts {
   padding: 6px;
@@ -23,9 +33,13 @@
   background-color: blue;
 }
 
-body {
-  background-color: grey;
+body{
+	background: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	overflow-x: hidden;
 }
+
 h1 {
   color: white;
   text-align: center;
@@ -33,6 +47,8 @@ h1 {
 h2 {
   color: black;
   text-align: center;
+  font-family: 'Montserrat';
+
 }
 p {
   color: black;
@@ -40,12 +56,24 @@ p {
   font-size: 20px;
   text-align: center;
 }
-img {
-  align-self: center;
+.column {
+    width: 350px;
+    float: left;
+
 }
-ol {
-  text-align: center;
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
 }
-li {
-  text-align: center;
+@media screen and (min-width: 768px) {
+  body {
+    background-color: #daa520;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
 }

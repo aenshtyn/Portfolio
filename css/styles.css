@@ -13,6 +13,14 @@
   padding: 50px;
   margin: 20px;
 }
+.paragraph2 {
+  text-align: justify;
+  color: #F1C313
+  width: 300px;
+  border: 1px solid green;
+  padding: 50px;
+  margin: 20px;
+}
 
 .column {
   width: 350px;
